@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Luckiest+Guy&family=Mr+Dafoe&family=Quantico&family=Rampart+One&family=Righteous&display=swap');
+.App {
+  text-align: center;
+   background-color: white;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23e6b980' fill-opacity='1' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");  height: 100vh;
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  font-family: 'Quantico', sans-serif;
+
+}
+
+.App h1{
+  margin: 0;
+  font-size: 3em;
+  /* text-shadow: 5px 5px 3px black; */
+  color:black;
+  color:#252222;
+}
+
+.App h3{
+  margin: 0;
+  font-size: 1.2em;
+  /* text-shadow: 1.2px 1.2px 1.2px black; */
+  color: #F6F7DD;
+  color:#151516;
+  
+}
+
+.line-wrapper{
+width: 50%;
+}
